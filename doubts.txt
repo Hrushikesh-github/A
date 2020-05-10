@@ -1,0 +1,1 @@
+1. pg 40: Why all the preprocessing of resizing and then subtracting    the mean value of imagenet dataset
